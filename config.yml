@@ -1,0 +1,3 @@
+strings:
+  serverList:
+    setMotd: "&2Serveur de dev"

@@ -1,0 +1,5 @@
+name: AkirabaneMOTD
+version: 1.0
+author: Akirabane
+main: fr.akirabane.akirabanemotd.Main
+api-version: 1.16
